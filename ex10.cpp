@@ -1,5 +1,6 @@
 
 // test 10
+// sync message
 
 #include <iostream>
 #include <math.h>

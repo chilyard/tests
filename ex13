@@ -1,0 +1,11 @@
+#!/usr/bin/python
+# -- coding: utf-8 --
+
+from sys import argv
+
+script, first, second, third = argv
+
+print "this script:", script
+print "first arg:", first
+print "second arg:", second
+print "third arg:", third 

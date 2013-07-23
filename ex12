@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -- coding: utf-8 --
+
+prompt = ": "
+
+age = raw_input(prompt)
+height = raw_input(prompt)
+weight = raw_input(prompt)
+
+print "age: %s, height: %s, weight: %s" % (age, height, weight)

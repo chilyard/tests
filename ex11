@@ -1,0 +1,14 @@
+#!/usr/bin/python
+# -- coding: utf-8 --
+
+prompt = "-:"
+
+print "how old are you?"
+age = raw_input(prompt)
+print "name?"
+name = raw_input()
+print "type?"
+type = raw_input()
+
+print "age: %s \n name: %s \n type: %s" % (age, name, type)
+
